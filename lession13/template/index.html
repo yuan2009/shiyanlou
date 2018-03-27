@@ -1,0 +1,10 @@
+<h1>hello world!</h1>
+
+<p>name: {{course.name}}</p>
+
+{% for tag in course.tags %}
+<span>{{tag}}</span>
+{% endfor %}
+
+{% from 'macro.html' import course_item %}
+<div>{{course_item(course)}}</div>
