@@ -2,9 +2,8 @@
 # -*- coding:utf-8 -*-
 
 from flask import Flask, render_template
-app = Flask(__name__)
+app = Flask(__name__) # type: Flask
 app.config['TEMPLATES_AUTO_RELOAD'] = True
-
 @app.route('/')
 def index():
     teacher = {
