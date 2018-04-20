@@ -10,3 +10,9 @@ class Dog(object):
         self._name = value
     def bark(self):
         print(self.get_name() + "is sb")
+
+
+
+class Cat(object):
+    def __init__(self):
+        pass
