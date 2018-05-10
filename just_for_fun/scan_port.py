@@ -16,8 +16,6 @@ for port in f.readlines():
     port_list.append(port)
 
 # print(port_list)
-
-
 def scan(host, port):
     s = socket()
     s.settimeout(1)
