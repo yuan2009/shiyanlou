@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be644a62-70c8-47c0-ba4c-aca013d1ccb4" name="Default" comment="" />
+    <list default="true" readonly="true" id="be644a62-70c8-47c0-ba4c-aca013d1ccb4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/python3.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/python3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/shiyanlou.iml" afterPath="$PROJECT_DIR$/.idea/shiyanlou.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" afterPath="$PROJECT_DIR$/.vscode/launch.json" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" afterPath="$PROJECT_DIR$/.vscode/settings.json" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/just_for_fun/hosts.tmp" afterPath="$PROJECT_DIR$/just_for_fun/hosts.tmp" />
+      <change beforePath="$PROJECT_DIR$/just_for_fun/ports" afterPath="$PROJECT_DIR$/just_for_fun/ports" />
+      <change beforePath="$PROJECT_DIR$/just_for_fun/scan_port.py" afterPath="$PROJECT_DIR$/just_for_fun/scan_port.py" />
+      <change beforePath="$PROJECT_DIR$/just_for_fun/test.sh" afterPath="$PROJECT_DIR$/just_for_fun/test.sh" />
+      <change beforePath="$PROJECT_DIR$/just_for_fun/tmp.py" afterPath="$PROJECT_DIR$/just_for_fun/tmp.py" />
+      <change beforePath="$PROJECT_DIR$/lession11/flask1.py" afterPath="$PROJECT_DIR$/lession11/flask1.py" />
+      <change beforePath="$PROJECT_DIR$/lession11/flask2.py" afterPath="$PROJECT_DIR$/lession11/flask2.py" />
+      <change beforePath="$PROJECT_DIR$/lession11/flask3.py" afterPath="$PROJECT_DIR$/lession11/flask3.py" />
+      <change beforePath="$PROJECT_DIR$/lession11/flask4.py" afterPath="$PROJECT_DIR$/lession11/flask4.py" />
+      <change beforePath="$PROJECT_DIR$/lession11/flask5.py" afterPath="$PROJECT_DIR$/lession11/flask5.py" />
+      <change beforePath="$PROJECT_DIR$/lession11/flask7.py" afterPath="$PROJECT_DIR$/lession11/flask7.py" />
+      <change beforePath="$PROJECT_DIR$/lession11/templates/404.html" afterPath="$PROJECT_DIR$/lession11/templates/404.html" />
+      <change beforePath="$PROJECT_DIR$/lession11/templates/user_index.html" afterPath="$PROJECT_DIR$/lession11/templates/user_index.html" />
+      <change beforePath="$PROJECT_DIR$/lession13/app.py" afterPath="$PROJECT_DIR$/lession13/app.py" />
+      <change beforePath="$PROJECT_DIR$/lession13/template/base.html" afterPath="$PROJECT_DIR$/lession13/template/base.html" />
+      <change beforePath="$PROJECT_DIR$/lession13/template/index.html" afterPath="$PROJECT_DIR$/lession13/template/index.html" />
+      <change beforePath="$PROJECT_DIR$/lession13/template/macro.html" afterPath="$PROJECT_DIR$/lession13/template/macro.html" />
+      <change beforePath="$PROJECT_DIR$/lession13/templates/base.html" afterPath="$PROJECT_DIR$/lession13/templates/base.html" />
+      <change beforePath="$PROJECT_DIR$/lession13/templates/index.html" afterPath="$PROJECT_DIR$/lession13/templates/index.html" />
+      <change beforePath="$PROJECT_DIR$/lession13/templates/macro.html" afterPath="$PROJECT_DIR$/lession13/templates/macro.html" />
+      <change beforePath="$PROJECT_DIR$/lession17/data.json" afterPath="$PROJECT_DIR$/lession17/data.json" />
+      <change beforePath="$PROJECT_DIR$/lession17/s1.py" afterPath="$PROJECT_DIR$/lession17/s1.py" />
+      <change beforePath="$PROJECT_DIR$/lession17/shiyanlou_courses_spider.py" afterPath="$PROJECT_DIR$/lession17/shiyanlou_courses_spider.py" />
+      <change beforePath="$PROJECT_DIR$/lession9/proc.py" afterPath="$PROJECT_DIR$/lession9/proc.py" />
+      <change beforePath="$PROJECT_DIR$/lession9/proc2.py" afterPath="$PROJECT_DIR$/lession9/proc2.py" />
+      <change beforePath="$PROJECT_DIR$/lession9/proc3.py" afterPath="$PROJECT_DIR$/lession9/proc3.py" />
+      <change beforePath="$PROJECT_DIR$/lession9/proc4.py" afterPath="$PROJECT_DIR$/lession9/proc4.py" />
+      <change beforePath="$PROJECT_DIR$/pycharm_settings.jar" afterPath="$PROJECT_DIR$/pycharm_settings.jar" />
+      <change beforePath="$PROJECT_DIR$/shiyanlou/.idea/workspace.xml" afterPath="$PROJECT_DIR$/shiyanlou/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan10/getrank.py" afterPath="$PROJECT_DIR$/tiaozhan10/getrank.py" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan15/data.json" afterPath="$PROJECT_DIR$/tiaozhan15/data.json" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan15/start_scrapy.py" afterPath="$PROJECT_DIR$/tiaozhan15/start_scrapy.py" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan6/files/helloshiyanlou.json" afterPath="$PROJECT_DIR$/tiaozhan6/files/helloshiyanlou.json" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan6/files/helloworld.json" afterPath="$PROJECT_DIR$/tiaozhan6/files/helloworld.json" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan6/news/app.py" afterPath="$PROJECT_DIR$/tiaozhan6/news/app.py" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan6/news/templates/404.html" afterPath="$PROJECT_DIR$/tiaozhan6/news/templates/404.html" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan6/news/templates/base.html" afterPath="$PROJECT_DIR$/tiaozhan6/news/templates/base.html" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan6/news/templates/file.html" afterPath="$PROJECT_DIR$/tiaozhan6/news/templates/file.html" />
+      <change beforePath="$PROJECT_DIR$/tiaozhan6/news/templates/index.html" afterPath="$PROJECT_DIR$/tiaozhan6/news/templates/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,55 +65,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="getrank.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tiaozhan10/getrank.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-              <folding>
-                <element signature="e#24#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="tmp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/just_for_fun/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scan_port.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/just_for_fun/scan_port.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-              <folding>
-                <element signature="e#23#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hosts.tmp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/just_for_fun/hosts.tmp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ports" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/just_for_fun/ports">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="60">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,6 +83,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shiyanlou" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,12 +107,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PerforceDirect.Settings">
+    <option name="ENABLED" value="false" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="681" />
+    <option name="x" value="598" />
     <option name="y" value="23" />
     <option name="width" value="838" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -119,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,18 +142,19 @@
             <path>
               <item name="shiyanlou" type="b2602c69:ProjectViewProjectNode" />
               <item name="shiyanlou" type="462c0819:PsiDirectoryNode" />
-              <item name="just_for_fun" type="462c0819:PsiDirectoryNode" />
+              <item name="shiyanlou" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,26 +202,26 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="681" y="23" width="838" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="598" y="23" width="838" height="1027" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -224,33 +237,1580 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsOperationLog">
+    <option name="operations">
+      <list>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/info/exclude" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/info/exclude" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/logs/HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/logs/HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/logs/refs/heads/master" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/logs/refs/heads/master" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/logs/refs/remotes/origin/HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/logs/refs/remotes/origin/HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/logs/refs/remotes/origin/master" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/logs/refs/remotes/origin/master" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/refs/heads/master" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/refs/heads/master" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/refs/remotes/origin/HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/refs/remotes/origin/HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/refs/remotes/origin/master" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/refs/remotes/origin/master" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/update.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/update.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-push.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-push.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/commit-msg.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/commit-msg.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-commit.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-commit.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-rebase.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-rebase.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/post-update.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/post-update.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-receive.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-receive.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/applypatch-msg.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/applypatch-msg.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-applypatch.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/pre-applypatch.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/prepare-commit-msg.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/hooks/prepare-commit-msg.sample" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/index" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/index" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/config" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/config" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/01/cdeaa798a118083d0a3f754164cd47747dbb80" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/01/cdeaa798a118083d0a3f754164cd47747dbb80" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/03/8bd8d3ed74f05f08fe07d8f1b78c6430ddf70c" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/03/8bd8d3ed74f05f08fe07d8f1b78c6430ddf70c" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/06/9fc90854cc26fdc1b5a6834617da4f928f63de" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/06/9fc90854cc26fdc1b5a6834617da4f928f63de" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/08/5f22116619539d6bb1497f3ddc7607a2754ba6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/08/5f22116619539d6bb1497f3ddc7607a2754ba6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/0c/901defd15e5db077233c166161ae23d802601c" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/0c/901defd15e5db077233c166161ae23d802601c" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/16/045174a858230f5bb58247ac2051c42beab7b9" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/16/045174a858230f5bb58247ac2051c42beab7b9" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/16/4e76f898dd9d306e610d72d7601b0e04e07ac2" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/16/4e76f898dd9d306e610d72d7601b0e04e07ac2" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/19/adf6ea80e5796887008b3408e557c59d861cf5" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/19/adf6ea80e5796887008b3408e557c59d861cf5" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/19/ebda11111c859803f1f2ac9cc48721713774d3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/19/ebda11111c859803f1f2ac9cc48721713774d3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/1a/95971c0edb2b621d9a70c8b6db5f582d650688" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/1a/95971c0edb2b621d9a70c8b6db5f582d650688" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/1b/167b11ba6b963c9e1ea1c0b04e04cf866db159" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/1b/167b11ba6b963c9e1ea1c0b04e04cf866db159" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/1f/495db2743df6330047fe982d88be09840c2749" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/1f/495db2743df6330047fe982d88be09840c2749" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/21/5bf2c2d26ac7b834c5c45814049ec9b41f94d5" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/21/5bf2c2d26ac7b834c5c45814049ec9b41f94d5" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/23/02c6cd11bc5eb402f69fa3ea71e574609f35b6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/23/02c6cd11bc5eb402f69fa3ea71e574609f35b6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/25/417f245a81c143a76f9885981b67b469b16f28" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/25/417f245a81c143a76f9885981b67b469b16f28" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/26/07e9d2214a03d85d7bacdb58a2a43ba69e5476" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/26/07e9d2214a03d85d7bacdb58a2a43ba69e5476" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/27/7f151ed20c9484ca9f5f2d13598a137c97bfe3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/27/7f151ed20c9484ca9f5f2d13598a137c97bfe3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/2e/fc8021aea58308c4cc41e5d6df24b250949f02" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/2e/fc8021aea58308c4cc41e5d6df24b250949f02" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/33/1214dc90d09be0366b31b38b297150ad0795e0" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/33/1214dc90d09be0366b31b38b297150ad0795e0" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/38/c8ddacbec34253164fd7ba7be69af612876d06" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/38/c8ddacbec34253164fd7ba7be69af612876d06" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/3b/edff8c5ef19b3ebccfb82504189c27fd6842b5" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/3b/edff8c5ef19b3ebccfb82504189c27fd6842b5" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/3d/4db092fd0fd1d1123323e66b47ac05e775cae3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/3d/4db092fd0fd1d1123323e66b47ac05e775cae3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/3d/95f4bf41e7a8e34de3a85d222745cfb9be3f38" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/3d/95f4bf41e7a8e34de3a85d222745cfb9be3f38" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/3e/09ff45309235ff9098157742fa0660342406b6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/3e/09ff45309235ff9098157742fa0660342406b6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/41/a99b7660018a03f5a5eef06a7791a80f9c4595" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/41/a99b7660018a03f5a5eef06a7791a80f9c4595" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/41/dd7157b25f39d0c4805094449ed53fc81819aa" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/41/dd7157b25f39d0c4805094449ed53fc81819aa" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/42/24eb2cb065f417ab88c684c078cc61f57e2fe3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/42/24eb2cb065f417ab88c684c078cc61f57e2fe3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/49/f118b3cdda90a882feee1932615e7d0efd7b8a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/49/f118b3cdda90a882feee1932615e7d0efd7b8a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/4b/c7480822fb64581e188b721b381c7d3c670b19" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/4b/c7480822fb64581e188b721b381c7d3c670b19" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/4c/8be06e8d349c78a8cec0842b5a3d7104b0f323" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/4c/8be06e8d349c78a8cec0842b5a3d7104b0f323" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/4e/f52e0f57c1e5f5fdbf1ce1e2472489d1cbc8f6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/4e/f52e0f57c1e5f5fdbf1ce1e2472489d1cbc8f6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/51/8e33011f2d63a89114ec982d03228711ab6677" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/51/8e33011f2d63a89114ec982d03228711ab6677" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/53/c022aebf724e4c81b3c55bd7657c80c9682ec1" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/53/c022aebf724e4c81b3c55bd7657c80c9682ec1" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/55/ed78e18fe449ba221202befbc4bbad51897bac" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/55/ed78e18fe449ba221202befbc4bbad51897bac" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/5c/89fffc0b191b9844740bd8b4be6e7d061c696d" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/5c/89fffc0b191b9844740bd8b4be6e7d061c696d" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/5e/b2b61dbf7b0f737f48c59983c5192c007595c7" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/5e/b2b61dbf7b0f737f48c59983c5192c007595c7" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/61/00bc7a2c807b81113e99d42775c002975148c8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/61/00bc7a2c807b81113e99d42775c002975148c8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/6a/522ae16072506e6f3ddcca8ffae5ca2e9e6c3e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/6a/522ae16072506e6f3ddcca8ffae5ca2e9e6c3e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/6b/76079b80b59ea7b19d3b541522b6d16a317644" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/6b/76079b80b59ea7b19d3b541522b6d16a317644" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/71/100ee4f107b7880e1a486c1837edfbee936360" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/71/100ee4f107b7880e1a486c1837edfbee936360" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/71/a244ff728c675251c8387e67f71ae6f5762b7a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/71/a244ff728c675251c8387e67f71ae6f5762b7a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/78/c8a4c495b187a9b2ea3ab7aff6507c89df383b" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/78/c8a4c495b187a9b2ea3ab7aff6507c89df383b" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/78/ea09413abbff7e72f850251a37a3bd0e88d6b4" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/78/ea09413abbff7e72f850251a37a3bd0e88d6b4" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/79/689647a9c3b42652bf9f15580a48f855faae8a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/79/689647a9c3b42652bf9f15580a48f855faae8a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/7a/5df22b0ae26bfb0a609a55c99c852253037503" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/7a/5df22b0ae26bfb0a609a55c99c852253037503" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/85/4bdb20f9b1046fbd6116310c369c11e9132dae" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/85/4bdb20f9b1046fbd6116310c369c11e9132dae" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/86/153b0499941a712f1d07aebff4fdd7a00d8f5d" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/86/153b0499941a712f1d07aebff4fdd7a00d8f5d" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/87/02d9a036743968833e17053c7e4dc267c92050" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/87/02d9a036743968833e17053c7e4dc267c92050" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/87/076f83fe7bb750647de4f73ff9469b5c19326a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/87/076f83fe7bb750647de4f73ff9469b5c19326a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/88/f769e575e71dbd6af3c6315c01ceb3418f4d8a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/88/f769e575e71dbd6af3c6315c01ceb3418f4d8a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/89/39bb2f849bcd5f5afd3b3f769200d5df420fdd" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/89/39bb2f849bcd5f5afd3b3f769200d5df420fdd" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8b/bb2fbadc211a2d5e67fee1eb24e644e73e1b6e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8b/bb2fbadc211a2d5e67fee1eb24e644e73e1b6e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8c/71d5fcc345bfccf7adab5838dbabc10fadff2a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8c/71d5fcc345bfccf7adab5838dbabc10fadff2a" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8d/f4ed8b0ba03c42290c2c24b5414d60ef6151cd" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8d/f4ed8b0ba03c42290c2c24b5414d60ef6151cd" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8e/7faca041a91d30b479d52527a65593a4d96b23" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8e/7faca041a91d30b479d52527a65593a4d96b23" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8f/58739a73c5e69769dd21e54222a9d547800a76" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/8f/58739a73c5e69769dd21e54222a9d547800a76" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/92/860f27d4dbbefc58f1744eeb7ffcbdc2460cb6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/92/860f27d4dbbefc58f1744eeb7ffcbdc2460cb6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/93/3b2bd6cb9aa92884042240375859fe4d0060d3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/93/3b2bd6cb9aa92884042240375859fe4d0060d3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/94/c4a194faff355cdc4bcd1734d15435766e1c3e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/94/c4a194faff355cdc4bcd1734d15435766e1c3e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/95/80c45ad1bbacf1839adc69c01e45bbf53c9cf3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/95/80c45ad1bbacf1839adc69c01e45bbf53c9cf3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/96/62a54a213268c3a756b54ac8152f8c88bae686" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/96/62a54a213268c3a756b54ac8152f8c88bae686" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/97/84c745f2effd1f191ca43be1befc0e583de56c" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/97/84c745f2effd1f191ca43be1befc0e583de56c" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/97/e5df6576c762eaabaec155534a45397707a8b4" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/97/e5df6576c762eaabaec155534a45397707a8b4" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/9b/1d9062f2a5d77612246316461c7f074e259017" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/9b/1d9062f2a5d77612246316461c7f074e259017" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/a0/076f78b8a54eae60c81ba3934a80b2cfdc6abb" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/a0/076f78b8a54eae60c81ba3934a80b2cfdc6abb" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/a1/6d12136daff07c94b763e24d6ff8f8ae28ca31" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/a1/6d12136daff07c94b763e24d6ff8f8ae28ca31" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/a7/bafdb04f234f7b76ed889511c45d5214d8c309" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/a7/bafdb04f234f7b76ed889511c45d5214d8c309" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/aa/05de434aa12d2c0bd591359da3b9ab928782e3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/aa/05de434aa12d2c0bd591359da3b9ab928782e3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/aa/3fed3ca2ce10d3a625f35876ec0407767529a8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/aa/3fed3ca2ce10d3a625f35876ec0407767529a8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ab/354044ea35cd214610db436ff77bfe65b23e53" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ab/354044ea35cd214610db436ff77bfe65b23e53" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ac/38cf1a7004b8af8f7ee0268f2db9a71e0738b7" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ac/38cf1a7004b8af8f7ee0268f2db9a71e0738b7" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/b3/e30ea1f95197232960b4be16775511ba4c8ae4" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/b3/e30ea1f95197232960b4be16775511ba4c8ae4" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/b6/4a5f7bb35742a98781813f0aa225ac4d5adf51" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/b6/4a5f7bb35742a98781813f0aa225ac4d5adf51" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/b8/5d5cf27a169e77260c18c2659e122dd21ebee5" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/b8/5d5cf27a169e77260c18c2659e122dd21ebee5" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/bc/72ca1d0e849efba2a048507af7c59624e93024" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/bc/72ca1d0e849efba2a048507af7c59624e93024" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/be/0274f99439ec77224f556438aea07fc91abf99" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/be/0274f99439ec77224f556438aea07fc91abf99" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c1/6b832c4b39b8745677f522917351bc08cae905" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c1/6b832c4b39b8745677f522917351bc08cae905" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c2/38f9c2b0b5c86d4d8bc271cc7c992145cae129" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c2/38f9c2b0b5c86d4d8bc271cc7c992145cae129" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c3/48e57b748f83a3f960cef99df2e6b8f844a05f" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c3/48e57b748f83a3f960cef99df2e6b8f844a05f" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c4/7359605e34246e39f77c8557a3f348ec6eb9a8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c4/7359605e34246e39f77c8557a3f348ec6eb9a8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c5/5d5cf22974339b63f588fd0ba79fa057374816" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c5/5d5cf22974339b63f588fd0ba79fa057374816" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c6/18cdb8e3eb8e93f8ca9637844283d68220f4c8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/c6/18cdb8e3eb8e93f8ca9637844283d68220f4c8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ca/098834f5ad10271c34a62c2fff1909c94ac0fa" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ca/098834f5ad10271c34a62c2fff1909c94ac0fa" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ca/c7180ed38039949a46f192334497f300747493" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ca/c7180ed38039949a46f192334497f300747493" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d0/172374fa4967449beab240e420a0b70009d5a6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d0/172374fa4967449beab240e420a0b70009d5a6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d3/b3c0762a7ff8a874dcc6a54175f8b56de9e7da" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d3/b3c0762a7ff8a874dcc6a54175f8b56de9e7da" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d3/e352c0d890ce2e303dd142e5c6e08767c8a53b" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d3/e352c0d890ce2e303dd142e5c6e08767c8a53b" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d4/5bab4311e87b6a6f1b6cddc2245e9feb9f36f7" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d4/5bab4311e87b6a6f1b6cddc2245e9feb9f36f7" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d7/2391fb79a6d7546f1ead572e6f5a46d772b650" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/d7/2391fb79a6d7546f1ead572e6f5a46d772b650" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/db/ad6862a1b7d63e2a8e2b9e1072e03e7f34f623" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/db/ad6862a1b7d63e2a8e2b9e1072e03e7f34f623" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/dc/d6ca22a234fb375951721fe7f1a41d7118b0be" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/dc/d6ca22a234fb375951721fe7f1a41d7118b0be" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/dd/eb671b60b62a185d59d29ba6f6253e0f7f7a6e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/dd/eb671b60b62a185d59d29ba6f6253e0f7f7a6e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e2/cadb5d859341434d23b12bc29c62bbd1aa2f5e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e2/cadb5d859341434d23b12bc29c62bbd1aa2f5e" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e4/7050acfbf6f5fadfc1b5b197054dcbf50bdea9" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e4/7050acfbf6f5fadfc1b5b197054dcbf50bdea9" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e5/6ea71e3bc940728c4e1df733821da38b0189c2" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e5/6ea71e3bc940728c4e1df733821da38b0189c2" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e5/a0d9b4834ec8f46d6e0d1256c6dcaad2e460fe" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e5/a0d9b4834ec8f46d6e0d1256c6dcaad2e460fe" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e5/bc8d1c544d3574d9fb8581a4c799ddc4bb48ab" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e5/bc8d1c544d3574d9fb8581a4c799ddc4bb48ab" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e7/1bc3a1de480b2baf4bf6fcdc5a999afa02deca" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e7/1bc3a1de480b2baf4bf6fcdc5a999afa02deca" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e7/1d19d6643f46fdb9a176427e479b4e826b85d8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e7/1d19d6643f46fdb9a176427e479b4e826b85d8" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e7/5cbf267252809d29a6c5568267a740daad22c6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/e7/5cbf267252809d29a6c5568267a740daad22c6" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ea/facc0870ec2f607c22a648ccacf6042d569454" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ea/facc0870ec2f607c22a648ccacf6042d569454" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ef/6f2f71823f1432c0983bccc9b158e274e4df6b" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ef/6f2f71823f1432c0983bccc9b158e274e4df6b" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ef/a8d4360411943fe4ca39061b5c78275a33cd18" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ef/a8d4360411943fe4ca39061b5c78275a33cd18" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ef/e205a7dcd25e15a76e6486ae606e331918acd3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ef/e205a7dcd25e15a76e6486ae606e331918acd3" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f3/50a98bcbc5caf71f4160d16173b4ec6aa47131" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f3/50a98bcbc5caf71f4160d16173b4ec6aa47131" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f5/3898ef55a3ef8c54d462b548b541c724572500" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f5/3898ef55a3ef8c54d462b548b541c724572500" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f5/50fdfb7463aacbc3db6736b1ed0ad43af6c07b" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f5/50fdfb7463aacbc3db6736b1ed0ad43af6c07b" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f5/dec20f555fc3cd27e5af36fccc104532dde421" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f5/dec20f555fc3cd27e5af36fccc104532dde421" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f9/a3d0fac3c204c55c53485a55d09e31c9a93d26" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/f9/a3d0fac3c204c55c53485a55d09e31c9a93d26" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/fe/37b8c8f72febf9d4955d0010017675eb3e8d4d" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/fe/37b8c8f72febf9d4955d0010017675eb3e8d4d" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ff/ec0aaab82b011a9f08338af266ca1d3ec38556" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/ff/ec0aaab82b011a9f08338af266ca1d3ec38556" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/pack/pack-ccb834c5fd24184847d3cc155ab69f7dd06245d6.idx" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/pack/pack-ccb834c5fd24184847d3cc155ab69f7dd06245d6.idx" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/pack/pack-ccb834c5fd24184847d3cc155ab69f7dd06245d6.pack" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/objects/pack/pack-ccb834c5fd24184847d3cc155ab69f7dd06245d6.pack" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/ORIG_HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/ORIG_HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/FETCH_HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/FETCH_HEAD" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/description" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/description" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/packed-refs" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/packed-refs" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/COMMIT_EDITMSG" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.git/COMMIT_EDITMSG" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/vcs.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/vcs.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/misc.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/misc.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/modules.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/modules.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/shiyanlou.iml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/shiyanlou.iml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/runConfigurations/python3.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/runConfigurations/python3.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.vscode/launch.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.vscode/launch.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.vscode/settings.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.vscode/settings.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession9/proc.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession9/proc.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession9/proc2.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession9/proc2.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession9/proc3.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession9/proc3.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession9/proc4.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession9/proc4.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.DS_Store" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.DS_Store" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask1.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask1.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask2.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask2.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask3.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask3.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask4.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask4.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask5.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask5.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask7.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/flask7.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/templates/404.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/templates/404.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/templates/user_index.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession11/templates/user_index.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/app.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/app.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/template/base.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/template/base.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/template/index.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/template/index.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/template/macro.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/template/macro.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/templates/base.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/templates/base.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/templates/index.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/templates/index.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/templates/macro.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/templates/macro.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/__pycache__/app.cpython-35.pyc" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession13/__pycache__/app.cpython-35.pyc" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession17/s1.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession17/s1.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession17/data.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession17/data.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession17/__pycache__/shiyanlou_courses_spider.cpython-35.pyc" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession17/__pycache__/shiyanlou_courses_spider.cpython-35.pyc" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession17/shiyanlou_courses_spider.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/lession17/shiyanlou_courses_spider.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/README.md" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/README.md" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/app.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/app.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/templates/404.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/templates/404.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/templates/base.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/templates/base.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/templates/file.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/templates/file.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/templates/index.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/news/templates/index.html" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/files/helloworld.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/files/helloworld.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/files/helloshiyanlou.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan6/files/helloshiyanlou.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan10/getrank.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan10/getrank.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan15/data.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan15/data.json" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan15/__pycache__/start_scrapy.cpython-35.pyc" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan15/__pycache__/start_scrapy.cpython-35.pyc" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan15/start_scrapy.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/tiaozhan15/start_scrapy.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/_config.yml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/_config.yml" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/ports" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/ports" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/tmp.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/tmp.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/test.sh" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/test.sh" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/hosts.tmp" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/hosts.tmp" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/scan_port.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/just_for_fun/scan_port.py" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/pycharm_settings.jar" />
+        </P4EditOperation>
+        <P4EditOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/pycharm_settings.jar" />
+        </P4EditOperation>
+      </list>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tiaozhan10/getrank.py">
+    <entry file="file://$PROJECT_DIR$/just_for_fun/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#24#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/just_for_fun/ports">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/just_for_fun/hosts.tmp">
+    <entry file="file://$PROJECT_DIR$/just_for_fun/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaozhan10/getrank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_for_fun/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -259,9 +1819,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_for_fun/hosts.tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_for_fun/ports">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaozhan10/getrank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_for_fun/ports">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_for_fun/hosts.tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_for_fun/scan_port.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -269,9 +1868,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -310,46 +1906,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/just_for_fun/hosts.tmp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/just_for_fun/ports">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/just_for_fun/scan_port.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="432">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tiaozhan10/getrank.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="e#24#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_for_fun/hosts.tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/just_for_fun/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
