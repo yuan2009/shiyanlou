@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="be644a62-70c8-47c0-ba4c-aca013d1ccb4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/lession11/flask_re.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lession7/copyfile.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lession7/readfile.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lession7/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lession7/tmp" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/python3.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/python3.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/shiyanlou.iml" afterPath="$PROJECT_DIR$/.idea/shiyanlou.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" afterPath="$PROJECT_DIR$/.vscode/launch.json" />
-      <change beforePath="$PROJECT_DIR$/just_for_fun/tmp.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lession11/flask1.py" afterPath="$PROJECT_DIR$/lession11/flask1.py" />
-      <change beforePath="$PROJECT_DIR$/lession11/flask2.py" afterPath="$PROJECT_DIR$/lession11/flask2.py" />
-      <change beforePath="$PROJECT_DIR$/lession11/templates/user_index.html" afterPath="$PROJECT_DIR$/lession11/templates/user_index.html" />
-      <change beforePath="$PROJECT_DIR$/tiaozhan3/calculator.py" afterPath="$PROJECT_DIR$/tiaozhan3/calculator.py" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +60,8 @@
       <file leaf-file-name="flask_re.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lession11/flask_re.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+            <state relative-caret-position="300">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -344,7 +330,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="learn" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn" />
   </component>
   <component name="VcsOperationLog">
     <option name="operations">
@@ -2171,8 +2158,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lession11/flask_re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        <state relative-caret-position="300">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
       </provider>
