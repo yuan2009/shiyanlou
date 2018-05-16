@@ -1,0 +1,12 @@
+Flask
+render_template
+    render_template('index.html'), username
+request
+    request.head
+    request.args
+make_response
+
+set_cookie
+    set_cookie("a", "b")
+abort
+    abort(404)
