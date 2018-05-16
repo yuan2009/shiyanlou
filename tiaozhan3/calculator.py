@@ -6,14 +6,27 @@ import csv # 用于写入 csv 文件
 # 处理命令行参数类
 class Args(object):
 
-    def __init__(self):
-        self.args = sys.argv[1:]
+    def __init__(self, args):
+        self.args = args
 
     """
     补充代码：
     1. 补充参数读取函数，并返回相应的路径.
     2. 当参数格式出错时，抛出异常.
     """
+    def __parse_arg(self, arg):
+        try:
+            value = self.args[self.args.index(arg)+1]
+        except(ValueError, IndexError):
+            value = None
+        return value
+
+    def get_args(self, arg):
+        value = self.__parse_arg(arg)
+        if value is None:
+            raise ArgError('')
+
+
 
 # 配置文件类
 class Config(object):
