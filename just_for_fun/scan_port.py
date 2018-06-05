@@ -24,7 +24,8 @@ def scan(host, port):
     if s.connect_ex((host, port)) == 0:
         print(host, port, ' open')
     else:
-        print(host, port, ' \033[31m close \033[0m')
+        # print(host, port, ' \033[31m close \033[0m')
+        pass
 if __name__ == '__main__':
     f = open(host_file, 'r')
     for list in f.readlines():

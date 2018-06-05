@@ -1,12 +1,20 @@
 Flask
+
 render_template
     render_template('index.html'), username
+
 request
     request.head
     request.args
-make_response
 
-set_cookie
-    set_cookie("a", "b")
-abort
+redirect    重定向
+    redirect('http://www.baidu.com')
+
+make_response
+    reps = make_response('')
+
+set_cookie  添加cookie
+    reps.set_cookie("a", "b")
+
+abort   跳出异常
     abort(404)
