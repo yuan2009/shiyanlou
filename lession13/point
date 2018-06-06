@@ -1,0 +1,15 @@
+jinja
+变量  {{ course.name }}
+变量赋值  {% set var="name" %}
+比较   {% if course.age < 18 %}
+      {% elif course.age < 30 %}
+      {% else %}
+      {% endif %}
+循环  {% for tag in course.tags %}
+        {% endfor %}
+宏   {% macro course_item() %}
+        <p> {{ course.name }} </p>
+        {% endmacro %}
+模块  {% from 'macro.html' import course_item %}
+        {{ course_item() }}
+模板继承
