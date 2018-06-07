@@ -12,4 +12,12 @@ jinja
         {% endmacro %}
 模块  {% from 'macro.html' import course_item %}
         {{ course_item() }}
-模板继承
+模板继承    {% block header %}
+            {% endblock %}
+{% extends "base.html" %}
+{% from "macro.html" import course_item  %}
+{% block header %}
+{% endblock %}
+{% block content %}
+{{ course_item(course) }}
+{% endblock %}
